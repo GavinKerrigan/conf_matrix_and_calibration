@@ -8,6 +8,7 @@ This repo contains the code for our NeurIPS 2021 paper, Combining Human Predicti
 - `/experiments` contains various scripts for reproducing the experiments in our paper.
 - `calibrators.py` implements various calibration methods.
 - `combination_methods.py` implements various combination methods.
+- `data_utils.py` contains useful data processing methods.
 
 # References
 Please consider citing our paper as:
